@@ -2,4 +2,6 @@
 #include <ctime>
 using namespace std;
 
-int main(){}
+int main(){
+    int x;
+}
